@@ -1,0 +1,9 @@
+<Window
+    x:Class="ToDo.Views.MainWindow"
+    xmlns="https://github.com/avaloniaui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Avalonia ToDo"
+    Width="200"
+    Height="400"
+    Content="{Binding List}"
+    Icon="/Assets/avalonia-logo.ico" />
